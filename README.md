@@ -5,7 +5,8 @@ Where I will house my Intro to DS Projects
 **First Project**
 - https://github.com/users/afinn2/projects/1
 
-**Penguin Project**
+**Penguin Project** ![image](https://github.com/user-attachments/assets/f02e819a-7211-4f84-8109-438336627350)<width="48">
+
 - https://github.com/afinn2/Finn-Data-Science-Portfolio/tree/main/basic_streamlit_app
 
 **Tidy Data Project**
