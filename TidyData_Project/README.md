@@ -1,2 +1,10 @@
 # Tidy Data Project
 **Tidy Data principles are all about creating a standard and clean way to present data**
+I chose the 2008 Olympic Medalist data for no particular reason and began to clean.
+In this project, I tidy up the data - first by separating the names from the event categories, then by melting the data set, and finally by dropping those events in which an athlete did not medal (eliminating fruitless observations). Then, I created a pivot plot to look at the data from a different perspective and created _three_ different visualizations (from the un-pivoted data frame).
+**My Goal was simply to explore the data and to see what I could learn about the data set by manipulating data frames**
+I had hoped to be able to determine who had won the most medals, and specifically the most gold medals, but was unable to do so because the medaling categories were already placed into arbitrary bins in the dataset.
+
+Here is an example image that shows the number of medal categories won by any person:
+![image](https://github.com/user-attachments/assets/3a6c0ba2-2404-4c64-ab07-8cde2e46079c)
+As you can see, every medalist only won one of these arbitrary categories.
