@@ -1,5 +1,9 @@
 # Finn-Data-Science-Portfolio
-Where I will house my Intro to DS Projects
+**HI!** My name is Aidan F. and this is where I will house my Intro to DS Projects.
+
+*A bit about me:* I am a graduating Senior at the University of Notre Dame majoring in Classics with a minor in data science. I hope the skills I learn in the Intro to DS class, and in the minor in general, will allow me to be a more valuable worker no matter the field I choose. Aside from academic and professional stuff, I love love love playing board and card games with (especially euchre) with friends and spend much of my time captaining my university's mens developmental Ultimate Frisbee team.
+
+
 
 ## List of Projects 
 **First Project**
@@ -13,6 +17,8 @@ Where I will house my Intro to DS Projects
 
 **Tidy Data Project**
 - https://github.com/afinn2/Finn-Data-Science-Portfolio/tree/main/TidyData_Project
+- This project focused on teaching me how to tidy data to achieve a standardized look. I used methods like melt and pivot and created a pie chart and several bar charts.
+- This project marks another step in my capabilties to transform data in a professional manner and to draw out/highlight patterns contained within the data. I now have the basics of both data cleaning and tidying (if only I had those fundamentals for my dorm room :))
 
 ## Super Cool Visualizations
 **From Tidy Data:** This is where I learned that my dataset had pre-made buckets of medaling-events so each athlete appeared to only win one medal.
