@@ -1,1 +1,23 @@
 
+# Machine Learning Streamlit App
+For references and instructions, scroll to the bottom.
+**Project Overview and Features:**
+This app allows the user to explore the potential of machine learning algorithms to make predictions about datasets. Users can choose from pre-loaded datasets - one classification (titanic) and one regression (mpg) - or upload their own dataset. The app uses KNN to make classification predictions (users can select the number of neighbors) and linear regression for regression predictions. The app also displays visuals 
+
+**References:**
+Returning "none": https://realpython.com/python-return-statement/#:~:text=When%20it%20comes%20to%20returning%20None%20%2C,returns%20None%20.%20*%20Return%20None%20explicitly.
+RMSE: https://discovery.cs.illinois.edu/guides/Statistics-with-Python/rmse/
+ - My RMSE import wasn't working and reading this article helped me remember I oculd just take the square root of mse
+Checking if lest is empty/hasn't been entered yet: https://stackoverflow.com/questions/67422064/check-if-expression-within-list-comprehension-is-empty-string
+Removing blank spaces from inputs: https://stackoverflow.com/questions/22429205/removing-spaces-in-python-input
+
+**Instructions:**
+Click the select box and choose either to view a preimported dataset or to import a new one. If you chose a pre-imported dataset, enjoy! There is nothing else to do. If you import a dataset, make sure it is cleaned and tidied. Then, enter the feature and target variables, separated by commas, and hit enter after you finish entering the features and again after the target. After this, choose whether you are doing a classification or regression prediction (Note: if you choose regression, you will see a red message because classification is default option. Simply select regression and the message will go away, replaced by the proper information.).
+
+**Features:**
+ - Regression and Classification Models
+ - Pre-uploaded datasets
+ - Ability to upload datasets
+ - Performance evaluations and visualizations
+ !["Performance eval and vis of titanic survivorship classification model"](image.png)
+
