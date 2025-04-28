@@ -24,8 +24,8 @@ st.title("Supervised Machine Learning App")
 dataset_options = ["mpg", "titanic", "upload my own"]
 def load_datasets(dataset):
     #Choose or Upload dataset
-    if selected_dataset == "upload my own":
-        if uploaded_dataset is not None:
+    if dataset == "upload my own":
+        if dataset is not None:
             df = pd.read_csv(dataset)
         else:
             return None, None, None, None #Prevents error message from occuring before user has uploaded a dataset
