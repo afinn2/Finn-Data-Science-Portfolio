@@ -83,7 +83,7 @@ def plot_optimal_k(X_std):
     st.text("KMeans Clustering groups an un-labeled dataset into different clusters. These clusters can represent labels. By comparing the clusters to the known labels, we can assess the performance of the model." \
     "\nFor example, a KMeans clustering model can be trained to identify cars vs trucks if we give it unlabeled vehicles with variables like size, mpg, and engine displacement." \
     "\nThe model will cluster the unlabeled vehicles. If we have the labels, we can compare the model's clusters with actual labels. If they match well, we can use the model to make future predictions.")
-    st.subheader("\nChoosing the optimal number of clusters (if you wish to predict a set number fo labels, choose that number)")
+    st.subheader("\nChoosing the optimal number of clusters (if you wish to predict a set number of labels, choose that number)")
     st.text("Below, you will see the an 'Elbow' Plot and a Silhouette Score Plot.\n" \
     "To find the optimal number of clusters, look at THE HIGHEST SILHOUETTE SCORE and the point RIGHT BEFORE THE ELBOW PLOT DROPS (i.e. bends like an elbow).")
     st.subheader("\nAbout the pre-uploaded wine dataset")
