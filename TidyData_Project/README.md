@@ -24,7 +24,7 @@ Tidy Data Frame: https://vita.had.co.nz/papers/tidy-data.pdf
 Split method guide (never needed to use split): https://pandas.pydata.org/docs/reference/api/pandas.Series.str.split.html
 
 ## Instructions 🏫:
-Make sure to run from start to finish. I installed Matplotlib.pyplot, pandas, numpy, and seaborn but did not use the latter in my code.
+Make sure to run the entire jupyter notebook from start to finish. I installed Matplotlib.pyplot, pandas, numpy, and seaborn but did not use the latter in my code.
 
 ## Features 🔥:
 - You can see athletes sorted by the highest color medal they have won!
